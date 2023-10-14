@@ -15,7 +15,7 @@ function App() {
         </button>
         <p>
         <iframe src="https://broadbandnow.com/speedtest" title="Broadband Now Speed Test"></iframe>
-        <iframe src="https://pcmag.speedtestcustom.com/" title="PC Mag Speed Test"></iframe>
+        <iframe src="https://pcmag.com/" title="PC Mag Speed Test"></iframe>
         <iframe src="https://www.sonicspeedtest.com" title="Sonic Speed Test"></iframe>
         </p>
       </div>
